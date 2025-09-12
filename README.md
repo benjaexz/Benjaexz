@@ -1,4 +1,4 @@
-# 👋 Eu sou Jacó Lima Pimentel
+# 👋 Eu sou Jacó Pimentel
 
 🎯 **Full-Stack Developer — Java (Spring Boot) + Angular (17+)**  
 🔧 Estudante de Engenharia de Computação | Experiência prática em PCM e automação industrial  
@@ -10,11 +10,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📂 Repositórios fixados
-- `springboot-rest-api` — API REST com Spring Boot (CRUD, JWT, JPA).
-- `angular-dashboard` — Dashboard Angular integrando a API.
-- `portfolio` — Projetos pequenos e scripts úteis.
 
 ## 📫 Contato
 - Email: jacopimentelxd@gmail.com  

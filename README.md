@@ -1,6 +1,6 @@
 # 👋 Eu sou Jacó Pimentel
 
-🎯 **Full-Stack Developer — Java (Spring Boot) + Angular (17+)**  
+🎯 **Engenheiro de software — Java (Spring Boot) + Angular (17+)**  
 🔧 Estudante de Engenharia de Computação | Experiência prática em Desenvolvimento de Software  
 🚀 Gosto de construir APIs robustas, dashboards e integrar software ↔ hardware
 

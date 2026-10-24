@@ -1,6 +1,6 @@
 # Jacó Lima 
 
-Estudante de Ciência da Computação (UniAnchieta, 2025–2028) · Manaus, AM
+Estudante de Engenharia de Software (UniAnchieta, 2025–2028) · Manaus, AM
 Foco em Java e Spring Boot. Procuro estágio ou vaga júnior em desenvolvimento.
 
 ## Projetos
@@ -9,9 +9,6 @@ Foco em Java e Spring Boot. Procuro estágio ou vaga júnior em desenvolvimento.
 
 ## Stack
 Java 21 · Spring Boot 3 · Spring Security · JWT · JPA/Hibernate · PostgreSQL · Angular · Docker · GitHub Actions
-
-## Agora
-Estudando Java a fundo e refazendo partes dos meus projetos por conta própria, pra dominar cada decisão.
 
 ## Contato
 [LinkedIn](https://www.linkedin.com/in/jacolima) · jacopimentelxd@gmail.com

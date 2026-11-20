@@ -1,14 +1,38 @@
-# Jacó Lima 
+# Benjamin | Cybersecurity & Technology
 
-Estudante de Engenharia de Software (UniAnchieta, 2025–2028) · Manaus, AM
-Foco em Java e Spring Boot. Procuro estágio ou vaga júnior em desenvolvimento.
+Technology professional transitioning into Cybersecurity, with a background in software development and systems engineering.
 
-## Projetos
-- **[Sonara](https://github.com/benjaexz/Sonara)** — plataforma de música full-stack (Spring Boot 3, Angular 19, PostgreSQL), com JWT, 33 testes e CI/CD. [Demo](https://sonara-amber.vercel.app)
-- **[Câmara Session Timer](https://github.com/benjaexz/camara-session-timer)** — cronômetro de sessões legislativas em tempo real (React, Firebase). [Demo](https://camara-session-timer.vercel.app)
+## Current Focus
 
-## Stack
-Java 21 · Spring Boot 3 · Spring Security · JWT · JPA/Hibernate · PostgreSQL · Angular · Docker · GitHub Actions
+- Security Operations Center (SOC)
+- Security Monitoring & Incident Investigation
+- SIEM & Log Analysis
+- Network Security
+- Firewall Administration
 
-## Contato
-[LinkedIn](https://www.linkedin.com/in/jacolima) · jacopimentelxd@gmail.com
+## Technical Background
+
+- **Operating Systems:** Linux, Windows
+- **Programming:** Java, Python
+- **Backend:** Spring Boot, REST APIs
+- **Databases:** PostgreSQL
+- **Tools:** Git, GitHub
+
+## Cybersecurity Lab
+
+Currently developing practical knowledge through hands-on labs and documented investigations.
+
+- SOC monitoring and SIEM
+- Network traffic analysis
+- Firewall configuration
+- Security event investigation
+
+## Previous Software Projects
+
+- Sonara
+- Câmara Session Timer
+- Vibetrack
+
+## Objective
+
+Seeking an entry-level opportunity in Cybersecurity, particularly in SOC operations, security monitoring and incident investigation.

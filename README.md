@@ -1,4 +1,4 @@
-# Benjamin | Cybersecurity & Technology
+# Jacob | Cybersecurity & Technology
 
 Technology professional transitioning into Cybersecurity, with a background in software development and systems engineering.
 
